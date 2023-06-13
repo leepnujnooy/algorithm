@@ -49,9 +49,8 @@ public class PostFix {
                 }
             }
 
-            System.out.println(st.pop());
         }
-
+        System.out.println(st.pop());
     }
 
 
